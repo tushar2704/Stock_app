@@ -1,5 +1,5 @@
-# Tushar Aggarwal
+# Simple Stock price application by Tushar Aggarwal
 ```
-code
+streamlit run stock_app.py
 ```
-#Tushar Aggarwal
+## Connect/Follow me!
