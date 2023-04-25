@@ -1,4 +1,4 @@
-# Simple Stock price application by Tushar Aggarwal
+# Stock price application by Tushar Aggarwal
 ```
 streamlit run stock_app.py
 ```
